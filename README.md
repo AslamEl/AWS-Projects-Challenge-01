@@ -19,6 +19,8 @@ Today I hosted my very own static website on Amazon S3:
 
 ### Documentation
 
-You can find the detailed documentation in the [`docs/AWS_Challenge_Day1.pdf`](docs/AWS_Challenge_Day1.pdf) file.
+You can find the detailed documentation in the [`View PDF`](docs/AWS_Challenge_Day1.pdf) file.
+🏗️ Architecture diagram
+
 ![S3 Static Website](https://github.com/AslamEl/AWS-Projects-Challenge-01/blob/main/docs/s3-static-site-diagram.png?raw=true)
 
